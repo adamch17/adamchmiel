@@ -1,0 +1,78 @@
+.default{
+    font-family: sans-serif;
+}
+#halloween { 
+    font-size: 1.25em;    
+    border-bottom: 2px solid black;
+    background-image: -webkit-linear-gradient(45deg, white 0%, orange 85%, orange 56%, orange 100%);
+}
+#halloween h1{
+    font-size: 2.1em;
+    margin: 0 0 .1em .1em;
+}
+#halloween h2{
+    font-size: 1.1em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+h2{
+    font-size: 1.2em;
+    margin: 0 0 1.2em 1.25em;
+}
+img{
+    float: left;
+    margin-right: 1em;
+    padding: 5px;
+}
+/* I had to copy the images from the images folder on halloween_excersices to the images folder that is in styles to make the background work */
+
+html{ 
+    background-image: url('images/bats.gif');
+    width: 100%;
+}
+a:hover{
+    color: green;
+}
+a{
+    color: orange;
+}
+h3{
+    margin: 0 0 1.5em 1.25em;
+    font-size: 1.2em;
+    padding: 2px;
+    padding-top: 1em;
+    width: 100%;
+}
+#copyright{
+    text-align: center;
+}
+.welcome{
+    font-weight: bold;
+    font-size: 0.8em;
+    margin: 0 0 1.5em 1.25em;
+}
+.welcome::first-letter{
+    text-transform: uppercase;
+    font-size: 1.8em;
+}
+body {
+    font-size: 100%;
+    width: 800px;
+    margin: 15px auto;
+    background-color: white;
+    border: 5px solid black;
+    box-shadow: 1px 2px 30px 15px;
+}
+footer{
+    border-top: 2px solid black;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    background-image: -webkit-linear-gradient(45deg, orange 35%, orange 34%, orange 20%, white 100%);
+}
+p{
+    margin: 0 0  1.5em 1.25em;
+}
+ul{
+    margin: 0 0 1.5em 1.25em;
+}
+
