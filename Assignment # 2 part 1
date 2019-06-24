@@ -24,6 +24,7 @@ img{
     margin-right: 1em;
     padding: 5px;
 }
+/* I had to copy the images from the images folder on halloween_excersices to the images folder that is in styles to make the background work */
 html{ 
     background-image: url('images/bats.gif');
     width: 100%;
@@ -73,5 +74,4 @@ p{
 ul{
     margin: 0 0 1.5em 1.25em;
 }
-
 
