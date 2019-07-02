@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	
+	<meta charset="utf-8" />
+	<title>Halloween Store</title>
+	<link href="styles/main.css" rel= "stylesheet" type= "text/css">
+</head>
+<body>
+	<header>
+		<img src="images/pumpkin.gif" alt="pumpkin">
+		<div id="halloween">
+		<h1>The Halloween Store</h1>
+		<h2>For the little Goblin in all of us!</h2>
+		</div>	
+	</header>
+	<header>
+		<div class="welcome">
+				<h1>Welcome to my site. Please come in and stay awhile.</h1>
+		</div>
+			
+	</header>
+	
+	<p>I started this web site because Halloween has always been my favorite Holiday. But during the last year, I started selling some of my favorite Halloween products, and they've become quite a hit.</p>
+	<p>If you click on the Personal link, you can browse my favorite Halloween pictures, stories, and films. And if you join my email list, I will keep you up-to-date on all things Halloween. </p>
+
+	<header>
+		<div id="products">
+				<h2>Product categories</h2>
+		</div>
+	</header>
+	
+	<ul>
+		<li><u><b><a href="" target="_blank">Props</a></b></u></li>
+		<li><u><b><a href="" target="_blank"> Costumes</a></b></u></li>
+		<li><u><b><a href="" target="_blank">Special Effects</a></b></u></li>
+		<li><u><b><a href="" target="_blank">Masks</a></b></u></li>
+	</ul>
+	<header>
+			<h2>My guarantee</h2>
+	</header>
+	
+	<p>If you aren't completely satisfied with everything you buy from my site, you can return it for full refund.<b> No questions asked!</b></p>
+
+	<footer id="copyright"> &copy; 2016 Ben Murach</footer>
+</body>
+</html>
